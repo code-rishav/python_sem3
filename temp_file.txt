@@ -1,0 +1,3 @@
+this is python programming
+we are learning file handling 
+in python appended a line
